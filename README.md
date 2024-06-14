@@ -59,8 +59,9 @@ SQL code:
 Query result:  
 <img width="389" alt="Screenshot 2024-06-14 at 22 51 10" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/9db17ccb-6419-4c68-893a-c6990dd8db7a">  
 **Query 08: Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017. For example, 100% product view then 40% add_to_cart and 10% purchase.
-Add_to_cart_rate = number product  add to cart/number product view. Purchase_rate = number product purchase/number product view. The output should be calculated in product level**
+Add_to_cart_rate = number product  add to cart/number product view. Purchase_rate = number product purchase/number product view. The output should be calculated in product level**  
 SQL code:  
+<img width="788" alt="Screenshot 2024-06-14 at 22 58 36" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/6b342e01-90d5-40d4-8c92-7b1bca6046d0">  
 Query result: 
-
+<img width="880" alt="Screenshot 2024-06-14 at 22 58 51" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/e7b6a761-2819-44a6-a35a-2b32fa095b8a">
 
