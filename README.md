@@ -25,7 +25,12 @@ Query result:
 <img width="632" alt="Screenshot 2024-06-14 at 21 22 32" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/c5879e88-7a50-4c15-9a65-e16c1d6844b5">  
 **Query 02: Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC)**  
 SQL code:  
-Query result:
+
+<img width="535" alt="Screenshot 2024-06-14 at 21 53 43" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/70e331a7-add4-467a-b6eb-c257943f6eed">  
+
+Query result:  
+<img width="637" alt="Screenshot 2024-06-14 at 21 54 50" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/048a6f21-ad24-4544-90d8-4c694518ab9b">  
+
 **Query 3: Revenue by traffic source by week, by month in June 2017**  
 SQL code:  
 Query result:  
