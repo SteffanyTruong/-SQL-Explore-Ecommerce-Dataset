@@ -49,10 +49,15 @@ Query result:
 
 **Query 06: Average amount of money spent per session. Only include purchaser data in July 2017**  
 SQL code:  
+<img width="684" alt="Screenshot 2024-06-14 at 22 49 30" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/4a3ae17e-00b9-487a-a825-2c85edaf5a36">  
 Query result:  
+<img width="468" alt="Screenshot 2024-06-14 at 22 49 39" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/d7fd4a71-75c7-4b4d-be38-457427e9935f">  
+
 **Query 07: Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered.**  
 SQL code:  
+<img width="805" alt="Screenshot 2024-06-14 at 22 50 53" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/450f2b97-30ea-4d2f-9529-bba8bbb6c814">  
 Query result:  
+<img width="389" alt="Screenshot 2024-06-14 at 22 51 10" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/9db17ccb-6419-4c68-893a-c6990dd8db7a">  
 **Query 08: Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017. For example, 100% product view then 40% add_to_cart and 10% purchase.
 Add_to_cart_rate = number product  add to cart/number product view. Purchase_rate = number product purchase/number product view. The output should be calculated in product level**
 
