@@ -64,4 +64,8 @@ SQL code:
 <img width="788" alt="Screenshot 2024-06-14 at 22 58 36" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/6b342e01-90d5-40d4-8c92-7b1bca6046d0">  
 Query result: 
 <img width="880" alt="Screenshot 2024-06-14 at 22 58 51" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/e7b6a761-2819-44a6-a35a-2b32fa095b8a">
-
+# IV. Conclusion  
+- In conclusion, my exploration of the eCommerce dataset using SQL on Google BigQuery based on the Google Analytics dataset has revealed several interesting insights.
+- By exploring eCommerce dataset, I have gained valuable information about total visits, pageview, transactions, bounce rate, and revenue per traffic source,.... which could inform future business decisions.
+- To deep dive into the insights and key trends, the next step will visualize the data with some software like Power BI,Tableau,...
+- Overall, this project has demonstrated the power of using SQL and big data tools like Google BigQuery to gain insights into large datasets.
