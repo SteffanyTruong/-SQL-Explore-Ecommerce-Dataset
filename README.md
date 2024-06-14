@@ -33,12 +33,14 @@ Query result:
 
 **Query 3: Revenue by traffic source by week, by month in June 2017**  
 SQL code:  
-<img width="553" alt="Screenshot 2024-06-14 at 21 59 28" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/4d27d395-8385-40e5-89ea-b7255e7b58f4">
+<img width="553" alt="Screenshot 2024-06-14 at 21 59 28" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/4d27d395-8385-40e5-89ea-b7255e7b58f4">  
 Query result:  
 <img width="788" alt="Screenshot 2024-06-14 at 21 59 42" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/34a9f758-d11e-420b-8c90-da0cb09dd59b">  
 **Query 04: Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017**  
 SQL code:  
+<img width="674" alt="Screenshot 2024-06-14 at 22 36 42" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/5dc27781-7ff9-496a-a684-268edb1d8747">  
 Query result:  
+<img width="513" alt="Screenshot 2024-06-14 at 22 38 47" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/1a4961e6-7864-4ee3-9917-a5b2a18cf37e">  
 **Query 05: Average number of transactions per user that made a purchase in July 2017**  
 SQL code:  
 Query result:  
