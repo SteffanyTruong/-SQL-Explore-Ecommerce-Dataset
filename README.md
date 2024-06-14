@@ -43,7 +43,10 @@ Query result:
 <img width="513" alt="Screenshot 2024-06-14 at 22 38 47" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/1a4961e6-7864-4ee3-9917-a5b2a18cf37e">  
 **Query 05: Average number of transactions per user that made a purchase in July 2017**  
 SQL code:  
+<img width="698" alt="Screenshot 2024-06-14 at 22 44 58" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/08ecfbdd-d1b0-4b35-8236-6e69c9e2ae04">  
 Query result:  
+<img width="471" alt="Screenshot 2024-06-14 at 22 45 07" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/b422a3ee-7d6a-4127-a75c-7dfdaed4c1e2">  
+
 **Query 06: Average amount of money spent per session. Only include purchaser data in July 2017**  
 SQL code:  
 Query result:  
