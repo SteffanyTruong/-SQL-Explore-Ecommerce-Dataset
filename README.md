@@ -33,7 +33,9 @@ Query result:
 
 **Query 3: Revenue by traffic source by week, by month in June 2017**  
 SQL code:  
+<img width="553" alt="Screenshot 2024-06-14 at 21 59 28" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/4d27d395-8385-40e5-89ea-b7255e7b58f4">
 Query result:  
+<img width="788" alt="Screenshot 2024-06-14 at 21 59 42" src="https://github.com/SteffanyTruong/-SQL-Explore-Ecommerce-Dataset/assets/171953683/34a9f758-d11e-420b-8c90-da0cb09dd59b">  
 **Query 04: Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017**  
 SQL code:  
 Query result:  
